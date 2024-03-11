@@ -1,0 +1,12 @@
+3. Preguntas
+
+a) Cual consideras que es la ventaja de usar GITFLOW con respecto al uso estándar de
+GIT?
+La gran ventaja de trabajar con Gitflow en vez de quedarte con el Git básico es que te da un esquema de trabajo más claro y organizado. Con el Gitflow, tienes reglas y normas para manejar las ramas, lo que hace que sea más fácil llevar proyectos de software.
+
+
+b) Qué ventajas nos brindan las forjas como GITHUB cuando se trata de un desarrollo
+colaborativo?
+Forjas como GitHub son herramientas clave para el desarrollo colaborativo, permitiendo a los desarrolladores trabajar conjuntamente desde cualquier ubicación y revisar cambios sin la necesidad de estar físicamente en el mismo lugar. Al utilizar un sistema de control de versiones eficiente como Git, cada contribución queda registrada, simplificando el seguimiento de cambios y garantizando la seguridad del código.
+
+Estas plataformas ofrecen herramientas para la gestión de problemas y tareas, asignación de responsabilidades y seguimiento del progreso, facilitando la comunicación y organización en equipos extensos. Además, incluyen funciones para revisiones de código, donde los desarrolladores pueden comentar sobre los cambios propuestos, asegurando así la calidad del código antes de su incorporación.
